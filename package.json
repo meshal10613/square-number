@@ -1,17 +1,25 @@
 {
-  "name": "square-number",
-  "version": "1.0.1",
-  "description": "Return the square of a number with input validation",
-  "main": "index.js",
-  "scripts": {
-    "test": "node text.js"
-  },
-  "keywords": [
-    "math",
-    "square",
-    "utility"
-  ],
-  "author": "Syed Mohiuddin Meshal <syedmohiuddinmeshal24@gmail.com>",
-  "license": "ISC",
-  "type": "commonjs"
+    "name": "square-number",
+    "version": "1.0.2",
+    "description": "Return the square of a number with input validation",
+    "main": "index.js",
+    "scripts": {
+        "test": "node text.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/meshal10613/square-number.git"
+    },
+    "keywords": [
+        "math",
+        "square",
+        "utility"
+    ],
+    "author": "Syed Mohiuddin Meshal <syedmohiuddinmeshal24@gmail.com>",
+    "license": "ISC",
+    "type": "commonjs",
+    "bugs": {
+        "url": "https://github.com/meshal10613/square-number/issues"
+    },
+    "homepage": "https://github.com/meshal10613/square-number#readme"
 }
