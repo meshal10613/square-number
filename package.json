@@ -1,0 +1,17 @@
+{
+  "name": "square-number",
+  "version": "1.0.1",
+  "description": "Return the square of a number with input validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node text.js"
+  },
+  "keywords": [
+    "math",
+    "square",
+    "utility"
+  ],
+  "author": "Syed Mohiuddin Meshal <syedmohiuddinmeshal24@gmail.com>",
+  "license": "ISC",
+  "type": "commonjs"
+}
